@@ -24,6 +24,6 @@ c. Syntax Error
 
 d. 2
 
-e. 4
+e. 5
 
 question 4 involves writing java programs.
